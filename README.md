@@ -6,3 +6,5 @@ Name: Talike Bennett
 Date Completed: 06/10/2023
 
 Instructions: https://fullstackdecal.com/docs/Assignments/Homework/HW1
+
+Completed Website: https://csc318-hw1-tbennett.tiiny.site/
